@@ -16,7 +16,6 @@ Planned Features
 - Student registration
 - Lost-item reporting
 - Viewing and searching item records
-- Administrator login
 - Managing and updating item information
 - Database integration
 
